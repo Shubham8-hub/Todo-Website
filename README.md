@@ -68,3 +68,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+*******************************************************************************************************************************************************************************
+## To Get Started with this Code 
+1) 
+2) In the terminal write "npm start"
+3) Tools required is VS code, node.js.
+4) It will start at 3000 port in the chrome.
+
+*********************************************************************************************************************************************************************************
+### NOTE :
+1) If you want to change the code or design , do it on your computer/desktop.
+2) Donot push it in this  repository.
