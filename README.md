@@ -74,7 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 *******************************************************************************************************************************************************************************
 ## To Get Started with this Code 
-1) 
+## 1) Download the zip file 
 2) In the terminal write "npm start"
 3) Tools required is VS code, node.js.
 4) It will start at 3000 port in the chrome.
